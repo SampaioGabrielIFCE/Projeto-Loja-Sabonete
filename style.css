@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li {    
+    background-color: rgb(167, 0, 209);
+    display: inline-block ;
+    text-decoration: none;
+    justify-content: center;
+    text-decoration: none;
+    padding: 12px;
+    margin: 11px;
+}
+.link1 {
+    color: #FFFF;
+    text-decoration: none;
+
+}
+.link1.hover {
+    color: #f9090960;
+    text-decoration: none;
+
+}
+
+.titulo {
+    color: rgb(167, 0, 209);;
+}
